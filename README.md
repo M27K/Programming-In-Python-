@@ -1,6 +1,6 @@
-Tools & Technologies Used
+<h1>Tools & Technologies Used </h1>
 </br>
-Programming & Learning Tools </br>
+<h2>Programming & Learning Tools</h2> </br>
 	•	Python Tutor </br>
 		o	Visualizes program execution </br>
 		o	Used for explaining: </br>
@@ -8,16 +8,16 @@ Programming & Learning Tools </br>
 				Loops
 				Function calls
 				Recursion stack </br>
-•	VS Code </br>
-	o	Primary development environment </br>
-	o	Introduces students to: </br>
-			Industry-standard coding practices
-			File handling
-			Debugging techniques </br>
+	•	VS Code </br>
+		o	Primary development environment </br>
+		o	Introduces students to: </br>
+				Industry-standard coding practices
+				File handling
+				Debugging techniques </br>
 •	Python Interpreter </br>
 	o	Reinforces runtime behavior and error understanding 
 ________________________________________
-Practice Platforms </br>
+<h1>Practice Platforms</h1> </br>
 	•	FACE Prep </br>
 		o	In-class practice
 		o	Post-class assignments
